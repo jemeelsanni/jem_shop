@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/jem_shop/static/css/main.1c4565f3.css",
+    "main.js": "/jem_shop/static/js/main.3da5fd89.js",
+    "static/media/google.png": "/jem_shop/static/media/google.b31361249fb7518952ee.png",
+    "index.html": "/jem_shop/index.html",
+    "main.1c4565f3.css.map": "/jem_shop/static/css/main.1c4565f3.css.map",
+    "main.3da5fd89.js.map": "/jem_shop/static/js/main.3da5fd89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c4565f3.css",
+    "static/js/main.3da5fd89.js"
+  ]
+}
